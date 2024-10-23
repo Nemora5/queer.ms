@@ -1,1 +1,2 @@
-# queer.ms
+# queer.ms 
+work in progress
